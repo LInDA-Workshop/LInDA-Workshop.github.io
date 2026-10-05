@@ -1,0 +1,41 @@
+main:
+  - title: "News"
+    url: /news/
+  - title: "About"
+    url: /
+  - title: "Program"
+    url: /program/
+  - title: "Invited Speakers"
+    url: /speakers/
+  - title: "Panel"
+    url: /panel/
+  - title: "Important Dates"
+    url: /dates/
+  - title: "Call for Papers"
+    url: /cfp/
+  - title: "Committee"
+    url: /committee/
+  - title: "Contact"
+    url: /contact/
+
+workshop:
+  - title: "LInDA 2027"
+    children:
+      - title: "News"
+        url: /news/
+      - title: "About"
+        url: /
+      - title: "Program"
+        url: /program/
+      - title: "Invited Speakers"
+        url: /speakers/
+      - title: "Panel"
+        url: /panel/
+      - title: "Important Dates"
+        url: /dates/
+      - title: "Call for Papers"
+        url: /cfp/
+      - title: "Committee"
+        url: /committee/
+      - title: "Contact"
+        url: /contact/
