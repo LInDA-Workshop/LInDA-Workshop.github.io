@@ -1,7 +1,6 @@
 ---
 permalink: /cfp/
 title: "Call for Papers"
-
 ---
 
 
