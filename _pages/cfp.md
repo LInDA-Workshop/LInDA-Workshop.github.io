@@ -2,7 +2,7 @@
 permalink: /cfp/
 title: "Call for Papers"
 sidebar:
-  nav: "workshop"
+  nav: "main"
 ---
 
 
