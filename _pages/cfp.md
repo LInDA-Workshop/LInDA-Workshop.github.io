@@ -11,11 +11,11 @@ banner: /images/eacl.png
   .cfp-toc__title { font-weight: bold; margin: 0 0 0.5em 0; }
   .cfp-toc ul { list-style: none; margin: 0; padding: 0; }
   .cfp-toc li { margin: 0.4em 0; }
-  .cfp-toc a { text-decoration: none; }
+  .cfp-toc a { text-decoration: none; font-size: 1.1em;}
   .cfp-toc a:hover { text-decoration: underline; }
 
   /* Desktop: sticky sidebar */
-  @media (min-width: 80em) {
+  @media (min-width: 64em) {
     .sidebar,
     .sidebar.sticky {
       position: -webkit-sticky !important;
@@ -28,7 +28,7 @@ banner: /images/eacl.png
   }
 
   /* Phone/tablet: pills and tighter spacing */
-  @media (max-width: 70.99em) {
+  @media (max-width: 63.99em) {
     .sidebar,
     .sidebar.sticky {
       margin-top: 0 !important;
@@ -52,7 +52,7 @@ banner: /images/eacl.png
       padding: 0.4em 0.9em;
       border: 1px solid #ccc;
       border-radius: 999px;
-      font-size: 0.8em;
+      font-size: 0.9em;
       white-space: nowrap;
     }
 
