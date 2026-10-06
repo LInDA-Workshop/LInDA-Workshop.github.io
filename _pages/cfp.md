@@ -13,11 +13,34 @@ banner: /images/eacl.png
     top: 0 !important;
     margin-top: 2em !important;
   }
-  .cfp-toc__title { font-weight: bold; margin: 0 0 0.5em 0; }
-  .cfp-toc ul { list-style: none; margin: 0; padding: 0; }
-  .cfp-toc li { margin: 0.4em 0; }
-  .cfp-toc a { text-decoration: none; }
-  .cfp-toc a:hover { text-decoration: underline; }
+
+  .cfp-toc {
+    font-size: 1.1em;
+  }
+
+  .cfp-toc__title {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 0 0 0.5em 0;
+  }
+
+  .cfp-toc ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .cfp-toc li {
+    margin: 0.5em 0;
+  }
+
+  .cfp-toc a {
+    text-decoration: none;
+  }
+
+  .cfp-toc a:hover {
+    text-decoration: underline;
+  }
 </style>
 
 
