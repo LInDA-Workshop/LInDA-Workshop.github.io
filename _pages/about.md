@@ -6,7 +6,7 @@ title: "LInDA: Workshop on Linguistic Information for Downstream Applications"
 {% comment %}
 <p><b>March 13 or 14, 2027 (date to be confirmed) – Hybrid format</b><br>
 Co-located with EACL 2027 in Athens, Greece<br>
-Venue: Megaron Athens International Conference Center (MAICC), Room: TBA</p>
+Venue: Megaron Athens International Conference Centre (MAICC), Room: TBA</p>
 {% endcomment %}
 
 <p><i>LInDA studies how linguistic information can improve downstream NLP applications.</i></p>
