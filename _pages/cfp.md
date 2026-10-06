@@ -6,7 +6,7 @@ title: "Call for Papers"
 
 <p><b>March 13 or 14, 2027 (date to be confirmed) – Hybrid format</b><br>
 Co-located with EACL 2027 in Athens, Greece<br>
-Venue: Megaron Athens International Conference Centre (MAICC), Room: TBA</p>
+Venue: Megaron Athens International Conference Center (MAICC), Room: TBA</p>
 
 <p>LInDA invites papers on the use of linguistic information to improve NLP applications. Each submission must address two points: (1) a linguistic resource or annotation (not necessarily created by the contributors), and (2) its impact on one or more NLP tasks. Papers that cover only one of these points are out of scope.</p>
 <h3>Topics of interest</h3><p>Topics include, but are not limited to:</p><ul><li>Leveraging linguistic resources (e.g., annotations, grammars) to improve NLP tasks, particularly for low-resource languages</li><li>Language- and task-specific case studies, as well as more general strategies</li><li>Practical NLP applications, such as tools for second language (L2) learners and for educational purposes, based on linguistically informed material</li><li>Analyzing the quality of linguistic resources (notably, annotation standardization) and their relevance in NLP downstream tasks</li><li>Assessing how linguistic knowledge is represented in pretrained models as a basis for improving their capabilities</li><li>Investigating the language proficiency and metalinguistic skills of language models</li><li>Ethics of data collection, annotation, and NLP tools for underrepresented languages</li><li>Data- and compute-efficient approaches for multi- and mono-lingual modeling, relying on linguistic information for improvement</li><li>Cross-lingual transfer by utilizing linguistic knowledge that supports generalization</li></ul>
