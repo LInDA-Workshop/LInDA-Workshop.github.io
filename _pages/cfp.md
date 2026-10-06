@@ -26,6 +26,7 @@ Co-located with <a href="https://2027.eacl.org/"> EACL 2027</a> in Athens, Greec
 Venue: Megaron Athens International Conference Center (MAICC), Room: TBA</p>
 
 <p>LInDA invites papers on the use of linguistic information to improve NLP applications. Each submission must address two points: (1) a linguistic resource or annotation (not necessarily created by the contributors), and (2) its impact on one or more NLP tasks. Papers that cover only one of these points are out of scope.</p>
+
 <h3>Topics of interest</h3><p>Topics include, but are not limited to:</p><ul><li>Leveraging linguistic resources (e.g., annotations, grammars) to improve NLP tasks, particularly for low-resource languages</li><li>Language- and task-specific case studies, as well as more general strategies</li><li>Practical NLP applications, such as tools for second language (L2) learners and for educational purposes, based on linguistically informed material</li><li>Analyzing the quality of linguistic resources (notably, annotation standardization) and their relevance in NLP downstream tasks</li><li>Assessing how linguistic knowledge is represented in pretrained models as a basis for improving their capabilities</li><li>Investigating the language proficiency and metalinguistic skills of language models</li><li>Ethics of data collection, annotation, and NLP tools for underrepresented languages</li><li>Data- and compute-efficient approaches for multi- and mono-lingual modeling, relying on linguistic information for improvement</li><li>Cross-lingual transfer by utilizing linguistic knowledge that supports generalization</li></ul>
 <p>Relevant tasks include machine translation, information retrieval, interlinear gloss generation, morphological analysis, parsing, grammatical annotation, and training of language-specific models, among others.</p>
 
@@ -80,6 +81,6 @@ document.addEventListener('DOMContentLoaded', function () {
   });
   html += '</ul></nav>';
 
-  sidebar.innerHTML = html;
+  sidebar.insertAdjacentHTML('beforeend', html);
 });
 </script>
