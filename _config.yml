@@ -166,8 +166,6 @@ include:
   - _pages
   - files
 exclude:
-  - _pages/panel.md
-  - _pages/speakers.md
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
