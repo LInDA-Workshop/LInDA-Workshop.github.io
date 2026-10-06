@@ -110,10 +110,19 @@ Venue: Megaron Athens International Conference Center (MAICC), Room: TBA</p>
 
 <script>
 document.addEventListener('DOMContentLoaded', function () {
-  var sidebar = document.querySelector('.sidebar');
   var content = document.querySelector('.page__content') || document;
   var heads = content.querySelectorAll('h3');
-  if (!sidebar || !heads.length) return;
+  if (!heads.length) return;
+
+  // Use the theme's sidebar if it exists, otherwise create one
+  var sidebar = document.querySelector('.sidebar');
+  if (!sidebar) {
+    var page = document.querySelector('.page');
+    if (!page) return;
+    sidebar = document.createElement('div');
+    sidebar.className = 'sidebar sticky';
+    page.parentNode.insertBefore(sidebar, page);
+  }
 
   var html = '<nav class="cfp-toc"><p class="cfp-toc__title">On this page</p><ul>';
   heads.forEach(function (h, i) {
