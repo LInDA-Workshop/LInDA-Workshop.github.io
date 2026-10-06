@@ -2,7 +2,7 @@
 permalink: /cfp/
 title: "Call for Papers"
 banner: /images/eacl.png
-
+author_profile: true
 ---
 <style>
   html { scroll-behavior: smooth; }
