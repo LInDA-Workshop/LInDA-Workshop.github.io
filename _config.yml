@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title: "LInDA-Workshop 2027"
+title: "LInDA-Workshop"
 title_separator          : "-"
 name: &name "LInDA 2027"
 description: &description "Workshop on Linguistic Information for Downstream Applications"

@@ -4,6 +4,8 @@ title: "Call for Papers"
 sidebar:
   nav: "workshop"
 ---
+{% include cfp-select.html %}
+
 <p><b>March 13 or 14, 2027 (date to be confirmed) – Hybrid format</b><br>
 Co-located with EACL 2027 in Athens, Greece<br>
 Venue: Megaron Athens International Conference Centre (MAICC), Room: TBA</p>
@@ -28,10 +30,14 @@ Venue: Megaron Athens International Conference Centre (MAICC), Room: TBA</p>
 <p>Following general ACL policy, archival papers must not be under review at another venue during the LInDA review period. We do not accept direct submissions that are under review at ARR, or that overlap with such a submission by more than 25%. Non-archival papers do not have this restriction.</p>
 <h3>Double-blind review</h3>
 <p>Review is double-blind. Papers must not include author names or affiliations. Cite your own work in the third person ("Smith et al. (2025) showed…", not "We showed…"). Links to code or data must be anonymized. Papers that do not follow these rules may be desk-rejected without review. We follow the ACL Policies for Review and Citation. There is no anonymity period: authors may post preprints during the review period.</p>
-<!-- <h3>Presentation</h3>
+
+{% comment %}
+<h3>Presentation</h3>
 <p>At least one author of each accepted paper must register for the workshop and present the paper. Remote presentations are possible.</p>
 <h3>Best Paper Award</h3>
 <p>LInDA will give a Best Paper Award. All accepted archival papers are eligible. A committee of experts will select the winner. The committee will include members of the program committee and external researchers.</p>
 <h3>Participation and inclusion</h3>
 <p>LInDA is a hybrid workshop. Authors and attendees can take part in person in Athens or online. At least one organizer will be on site and one will be online during the workshop. Online participation will use the EACL 2027 virtual platform.</p>
-<p>We encourage submissions from researchers and communities that are underrepresented in NLP, and from authors with diverse backgrounds. We consider both topic fit and diversity in the review and selection process.</p> -->
+{% endcomment %}
+
+<p>We encourage submissions from researchers and communities that are underrepresented in NLP, and from authors with diverse backgrounds. We consider both topic fit and diversity in the review and selection process.</p>
