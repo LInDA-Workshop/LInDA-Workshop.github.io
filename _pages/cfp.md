@@ -22,7 +22,7 @@ Venue: Megaron Athens International Conference Center (MAICC), Room: TBA</p>
 
 
 <h3>Submission format</h3>
-<p>Submissions must follow the two-column ACL format. Please use the official <a href="https://github.com/acl-org/acl-style-files"> ACL LaTeX template </a> (also available on <a href="https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj"> Overleaf</a>). We do not provide a Word template. Submissions must be in PDF.</p>
+<p>Submissions must follow the two-column ACL format. Please use the official <a href="https://github.com/acl-org/acl-style-files"> ACL LaTeX template</a> (also available on <a href="https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj"> Overleaf</a>). We do not provide a Word template. Submissions must be in PDF.</p>
 <p>All papers must include a Limitations section after the conclusion. This section does not count toward the page limit. An Ethical Considerations section is optional and also does not count toward the limit.</p>
 <h3>Submission links</h3><p>We use OpenReview for all submissions.</p>
 <ul><li>Direct submissions (archival): TBA</li><li>ARR commitment (archival, pre-reviewed papers): TBA</li><li>Non-archival submissions: TBA</li></ul>
@@ -34,7 +34,7 @@ Venue: Megaron Athens International Conference Center (MAICC), Room: TBA</p>
 <h3>Multiple submissions</h3>
 <p>Following general ACL policy, archival papers must not be under review at another venue during the LInDA review period. We do not accept direct submissions that are under review at ARR, or that overlap with such a submission by more than 25%. Non-archival papers do not have this restriction.</p>
 <h3>Double-blind review</h3>
-<p>Review is double-blind. Papers must not include author names or affiliations. Cite your own work in the third person ("Smith et al. (2025) showed…", not "We showed…"). Links to code or data must be anonymized. Papers that do not follow these rules may be desk-rejected without review. We follow the <a href="https://www.aclweb.org/adminwiki/index.php/ACL_Policies_for_Review_and_Citation"> ACL Policies for Review and Citation </a>. There is no anonymity period: authors may post preprints during the review period.</p>
+<p>Review is double-blind. Papers must not include author names or affiliations. Cite your own work in the third person ("Smith et al. (2025) showed…", not "We showed…"). Links to code or data must be anonymized. Papers that do not follow these rules may be desk-rejected without review. We follow the <a href="https://www.aclweb.org/adminwiki/index.php/ACL_Policies_for_Review_and_Citation"> ACL Policies for Review and Citation</a>. There is no anonymity period: authors may post preprints during the review period.</p>
 
 {% comment %}
 <h3>Presentation</h3>

@@ -10,7 +10,7 @@ Venue: Megaron Athens International Conference Center (MAICC), Room: TBA</p>
 {% endcomment %}
 
 <p><i>LInDA studies how linguistic information can improve downstream NLP applications.</i></p>
-<p>Large language models (LLMs) still perform poorly on many languages. Most of the world's languages lack large training corpora. However, many of them have other resources: dictionaries, grammars, morphological analyses, and other forms of annotated texts. For example, according to <a href="https://glottolog.org/langdoc/status"> Glottolog </a>, about 63% of the world's languages have at least a grammar sketch.</p>
+<p>Large language models (LLMs) still perform poorly on many languages. Most of the world's languages lack large training corpora. However, many of them have other resources: dictionaries, grammars, morphological analyses, and other forms of annotated texts. For example, according to <a href="https://glottolog.org/langdoc/status"> Glottolog</a>, about 63% of the world's languages have at least a grammar sketch.</p>
 <p>LLMs can translate a language they have never seen before when they receive a dictionary and a grammar book in the prompt. Typological descriptions and interlinear glosses also may help machine translation and other tasks.</p>
 <p>LInDA brings these two sides together: linguistic information and NLP applications. We want to understand how linguistic resources and annotations can improve downstream tasks, especially for low-resource and underrepresented languages. We also want to know which types of information are useful, and for which tasks.</p>
 
