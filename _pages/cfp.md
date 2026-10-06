@@ -15,7 +15,7 @@ banner: /images/eacl.png
   .cfp-toc a:hover { text-decoration: underline; }
 
   /* Desktop: sticky sidebar */
-  @media (min-width: 64em) {
+  @media (min-width: 80em) {
     .sidebar,
     .sidebar.sticky {
       position: -webkit-sticky !important;
@@ -28,7 +28,7 @@ banner: /images/eacl.png
   }
 
   /* Phone/tablet: pills and tighter spacing */
-  @media (max-width: 63.99em) {
+  @media (max-width: 70.99em) {
     .sidebar,
     .sidebar.sticky {
       margin-top: 0 !important;
