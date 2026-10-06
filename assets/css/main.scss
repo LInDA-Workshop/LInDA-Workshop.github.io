@@ -37,3 +37,25 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+.greedy-nav, .greedy-nav .visible-links { overflow: visible !important; }
+
+.masthead__menu-item.has-dropdown { position: relative; }
+
+.nav-dropdown {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  min-width: 160px;
+  margin: 0;
+  padding: 0.3em 0;
+  list-style: none;
+  background: var(--global-bg-color, #fff);
+  border: 1px solid #ddd;
+  box-shadow: 0 2px 6px rgba(0,0,0,.15);
+  z-index: 100;
+}
+.nav-dropdown li { display: block; }
+.nav-dropdown a { display: block; padding: 0.4em 1em; white-space: nowrap; }
+
+.has-dropdown:hover > .nav-dropdown { display: block; }

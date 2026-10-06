@@ -13,6 +13,9 @@ main:
     url: /dates/
   - title: "Call for Papers"
     url: /cfp/
+    children:
+      - title: "LInDA 2027"
+        url: /cfp/
   - title: "Committee"
     url: /committee/
   - title: "Contact"

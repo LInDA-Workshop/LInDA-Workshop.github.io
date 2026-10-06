@@ -4,7 +4,7 @@ title: "Call for Papers"
 sidebar:
   nav: "workshop"
 ---
-{% include cfp-select.html %}
+
 
 <p><b>March 13 or 14, 2027 (date to be confirmed) – Hybrid format</b><br>
 Co-located with EACL 2027 in Athens, Greece<br>
