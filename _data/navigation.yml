@@ -5,8 +5,8 @@ main:
     url: /
   - title: "Program"
     url: /program/
-  # - title: "Invited Speakers"
-  #   url: /speakers/
+  - title: "Invited Speakers"
+    url: /speakers/
   # - title: "Panel"
     # url: /panel/
   - title: "Important Dates"

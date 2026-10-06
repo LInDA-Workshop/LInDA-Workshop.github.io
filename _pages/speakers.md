@@ -1,7 +1,7 @@
 ---
 permalink: /speakers/
 title: "Invited Speakers"
-published: false
+published: True
 
 ---
 
