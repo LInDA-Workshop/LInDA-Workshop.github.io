@@ -2,7 +2,10 @@
 permalink: /cfp/
 title: "Call for Papers"
 ---
-
+<div class="cfp-banner">
+  <img src="images/wiki/plotly_example.png" alt="LInDA 2027">
+ 
+</div>
 
 <p><b>March 13 or 14, 2027 (date to be confirmed) – Hybrid format</b><br>
 Co-located with <a href="https://2027.eacl.org/"> EACL 2027</a> in Athens, Greece<br>
