@@ -67,3 +67,27 @@
   text-align: justify;
   hyphens: auto;
 }
+
+.cfp-banner {
+  position: relative;
+  margin: 0 0 1.5em 0;
+  border-radius: 6px;
+  overflow: hidden;
+}
+.cfp-banner img {
+  display: block;
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+}
+.cfp-banner h1 {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.35);
+  text-shadow: 0 1px 4px rgba(0,0,0,.6);
+}
