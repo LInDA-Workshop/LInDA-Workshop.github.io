@@ -3,7 +3,7 @@ permalink: /cfp/
 title: "Call for Papers"
 ---
 <div class="cfp-banner">
-  <img src="images/wiki/plotly_example.png" alt="LInDA 2027">
+  <img src="{{ site.baseurl }}/images/wiki/plotly_example.png" alt="LInDA 2027">
  
 </div>
 
