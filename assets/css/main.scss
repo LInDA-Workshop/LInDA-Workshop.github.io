@@ -76,30 +76,3 @@
   object-position: center;
 }
 
-/* =========================================================
-   Desktop navigation: always show the navigation links
-   ========================================================= */
-
-@media (min-width: 64em) {
-  .greedy-nav .visible-links {
-    display: flex !important;
-    visibility: visible !important;
-    opacity: 1 !important;
-  }
-
-  .greedy-nav .visible-links li {
-    display: block !important;
-  }
-
-  .greedy-nav .hidden-links {
-    display: none !important;
-  }
-
-  .greedy-nav__toggle {
-    display: none !important;
-  }
-
-  .greedy-nav .navicon {
-    display: none !important;
-  }
-}
