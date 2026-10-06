@@ -8,12 +8,17 @@ banner: /images/eacl.png
   html { scroll-behavior: smooth; }
   .page__content h3 { scroll-margin-top: 4em; }
 
+  @media (min-width: 64em) {
   .sidebar,
   .sidebar.sticky {
-    position: relative !important;
-    top: 0 !important;
+    position: -webkit-sticky !important;
+    position: sticky !important;
+    top: 2em !important;
     margin-top: 2em !important;
+    max-height: calc(100vh - 4em);
+    overflow-y: auto;
   }
+}
   .cfp-toc__title { font-weight: bold; margin: 0 0 0.5em 0; }
   .cfp-toc ul { list-style: none; margin: 0; padding: 0; }
   .cfp-toc li { margin: 0.4em 0; }
