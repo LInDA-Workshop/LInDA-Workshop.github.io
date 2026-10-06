@@ -1,6 +1,7 @@
 ---
 permalink: /panel/
 title: "Panel"
+published: false
 sidebar:
   nav: "workshop"
 ---
