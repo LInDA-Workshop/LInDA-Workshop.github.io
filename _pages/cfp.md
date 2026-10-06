@@ -3,6 +3,14 @@ permalink: /cfp/
 title: "Call for Papers"
 banner: /images/eacl.png
 ---
+<style>
+  .sidebar,
+  .sidebar.sticky {
+    position: relative !important;
+    top: 0 !important;
+    margin-top: 2em !important;
+  }
+</style>
 
 
 <p><b>March 13 or 14, 2027 (date to be confirmed) – Hybrid format</b><br>
