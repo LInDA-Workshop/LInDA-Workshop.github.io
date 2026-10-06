@@ -8,23 +8,61 @@ banner: /images/eacl.png
   html { scroll-behavior: smooth; }
   .page__content h3 { scroll-margin-top: 4em; }
 
-  @media (min-width: 64em) {
-  .sidebar,
-  .sidebar.sticky {
-    position: -webkit-sticky !important;
-    position: sticky !important;
-    top: 2em !important;
-    margin-top: 2em !important;
-    max-height: calc(100vh - 4em);
-    overflow-y: auto;
-  }
-}
   .cfp-toc__title { font-weight: bold; margin: 0 0 0.5em 0; }
   .cfp-toc ul { list-style: none; margin: 0; padding: 0; }
   .cfp-toc li { margin: 0.4em 0; }
   .cfp-toc a { text-decoration: none; }
   .cfp-toc a:hover { text-decoration: underline; }
+
+  /* Desktop: sticky sidebar */
+  @media (min-width: 64em) {
+    .sidebar,
+    .sidebar.sticky {
+      position: -webkit-sticky !important;
+      position: sticky !important;
+      top: 2em !important;
+      margin-top: 2em !important;
+      max-height: calc(100vh - 4em);
+      overflow-y: auto;
+    }
+  }
+
+  /* Phone/tablet: pills and tighter spacing */
+  @media (max-width: 63.99em) {
+    .sidebar,
+    .sidebar.sticky {
+      margin-top: 0 !important;
+      margin-bottom: 1em;
+    }
+
+    .cfp-toc { margin-top: 1em; }
+    .cfp-toc__title { font-size: 0.85em; margin-bottom: 0.4em; }
+    .cfp-toc ul {
+      display: flex;
+      gap: 0.5em;
+      overflow-x: auto;
+      padding-bottom: 0.5em;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+    }
+    .cfp-toc ul::-webkit-scrollbar { display: none; }
+    .cfp-toc li { margin: 0; flex: 0 0 auto; }
+    .cfp-toc a {
+      display: block;
+      padding: 0.4em 0.9em;
+      border: 1px solid #ccc;
+      border-radius: 999px;
+      font-size: 0.8em;
+      white-space: nowrap;
+    }
+
+    .page__content { font-size: 0.95em; }
+    .page__content ul { padding-left: 1.2em; }
+    .page__content a { overflow-wrap: anywhere; }
+    .page__content h3 { scroll-margin-top: 1em; }
+  }
 </style>
+
 
 <p><b>March 13 or 14, 2027 (date to be confirmed) – Hybrid format</b><br>
 Co-located with <a href="https://2027.eacl.org/"> EACL 2027</a> in Athens, Greece<br>
