@@ -4,12 +4,20 @@ title: "Call for Papers"
 banner: /images/eacl.png
 ---
 <style>
+  html { scroll-behavior: smooth; }
+  .page__content h3 { scroll-margin-top: 4em; }
+
   .sidebar,
   .sidebar.sticky {
     position: relative !important;
     top: 0 !important;
     margin-top: 2em !important;
   }
+  .cfp-toc__title { font-weight: bold; margin: 0 0 0.5em 0; }
+  .cfp-toc ul { list-style: none; margin: 0; padding: 0; }
+  .cfp-toc li { margin: 0.4em 0; }
+  .cfp-toc a { text-decoration: none; }
+  .cfp-toc a:hover { text-decoration: underline; }
 </style>
 
 
@@ -55,3 +63,23 @@ Venue: Megaron Athens International Conference Center (MAICC), Room: TBA</p>
 {% endcomment %}
 
 <p>We encourage submissions from researchers and communities that are underrepresented in NLP, and from authors with diverse backgrounds. We consider both topic fit and diversity in the review and selection process.</p>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var sidebar = document.querySelector('.sidebar');
+  var content = document.querySelector('.page__content') || document;
+  var heads = content.querySelectorAll('h3');
+  if (!sidebar || !heads.length) return;
+
+  var html = '<nav class="cfp-toc"><p class="cfp-toc__title">On this page</p><ul>';
+  heads.forEach(function (h, i) {
+    if (!h.id) {
+      h.id = h.textContent.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '') || 'section-' + i;
+    }
+    html += '<li><a href="#' + h.id + '">' + h.textContent + '</a></li>';
+  });
+  html += '</ul></nav>';
+
+  sidebar.innerHTML = html;
+});
+</script>
