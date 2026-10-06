@@ -37,9 +37,10 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
-// .greedy-nav, .greedy-nav .visible-links { overflow: visible !important; }
+.greedy-nav .visible-links { overflow: visible !important; }
 
 .masthead__menu-item.has-dropdown { position: relative; }
+.dropdown-label { cursor: default; }
 
 .nav-dropdown {
   display: none;
@@ -58,21 +59,5 @@
 .nav-dropdown li { display: block; }
 .nav-dropdown a { display: block; padding: 0.4em 1em; white-space: nowrap; }
 
-.has-dropdown:hover > .nav-dropdown { display: block; }
-
-.has-dropdown:hover > .nav-dropdown { display: block; }
-
-.page__content p,
-.page__content li {
-  text-align: justify;
-  hyphens: auto;
-}
-
-.page-banner img {
-  display: block;
-  width: 100%;
-  height: 300px;
-  object-fit: cover;
-  object-position: center;
-}
-
+.has-dropdown:hover > .nav-dropdown,
+.has-dropdown:focus-within > .nav-dropdown { display: block; }
