@@ -2,8 +2,7 @@
 permalink: /speakers/
 title: "Invited Speakers"
 published: false
-sidebar:
-  nav: "workshop"
+
 ---
 
 

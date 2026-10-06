@@ -1,8 +1,7 @@
 ---
 permalink: /
 title: "LInDA 2027: Workshop on Linguistic Information for Downstream Applications"
-sidebar:
-  nav: "workshop"
+
 ---
 {% comment %}
 <p><b>March 13 or 14, 2027 (date to be confirmed) – Hybrid format</b><br>

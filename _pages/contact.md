@@ -1,8 +1,7 @@
 ---
 permalink: /contact/
 title: "Contact"
-sidebar:
-  nav: "workshop"
+
 ---
 
 
