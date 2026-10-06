@@ -2,7 +2,7 @@
 permalink: /cfp/
 title: "Call for Papers"
 banner: /images/eacl.png
-author_profile: true
+
 ---
 <style>
   html { scroll-behavior: smooth; }
@@ -114,7 +114,6 @@ document.addEventListener('DOMContentLoaded', function () {
   var heads = content.querySelectorAll('h3');
   if (!heads.length) return;
 
-  // Use the theme's sidebar if it exists, otherwise create one
   var sidebar = document.querySelector('.sidebar');
   if (!sidebar) {
     var page = document.querySelector('.page');
