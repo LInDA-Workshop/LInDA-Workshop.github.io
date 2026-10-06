@@ -9,9 +9,12 @@ banner: /images/eacl.png
 
   .sidebar,
   .sidebar.sticky {
-    position: relative !important;
-    top: 0 !important;
-    margin-top: 2em !important;
+  position: static !important;
+  top: auto !important;
+  bottom: auto !important;
+  transform: none !important;
+  margin-top: 2em !important;
+
   }
 
   .cfp-toc {
