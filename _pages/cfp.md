@@ -1,7 +1,7 @@
 ---
 permalink: /cfp/
 title: "Call for Papers"
-banner: /images/eacl_13new.png
+banner: /images/eacl.png
 
 ---
 <style>
