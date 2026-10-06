@@ -23,14 +23,14 @@ repository: "LInDA-Workshop/LInDA-Workshop.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: ""
-  name: "LInDA 2027"
-  pronouns         : # example: "she/her"  
-  bio: "1st Workshop on Linguistic Information for Downstream Applications. Co-located with EACL 2027."
-  location: "Athens, Greece"
-  # employer: ""
-  uri              : # URL
-  email: ""
+  # avatar: ""
+  # name: "LInDA 2027"
+  # pronouns         : # example: "she/her"  
+  # bio: "1st Workshop on Linguistic Information for Downstream Applications. Co-located with EACL 2027."
+  # location: "Athens, Greece"
+  # # employer: ""
+  # uri              : # URL
+  # email: ""
 
   # Academic websites
   # academia         : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github: "LInDA-Workshop"
+  # github: "LInDA-Workshop"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -245,52 +245,57 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
       related: true
+
   # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
+
   # _teaching
   - scope:
       path: ""
       type: teaching
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
+
   # _publications
   - scope:
       path: ""
       type: publications
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
+
   # _portfolio
   - scope:
       path: ""
       type: portfolio
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comment: true
+
   # _talks
   - scope:
       path: ""
       type: talks
     values:
       layout: talk
-      author_profile: true
+      author_profile: false
       share: true
 
 
