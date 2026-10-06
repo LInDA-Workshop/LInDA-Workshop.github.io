@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio: "1st Workshop on Linguistic Information for Downstream Applications. Co-located with EACL 2027."
   location: "Athens, Greece"
-  employer: ""
+  # employer: ""
   uri              : # URL
   email: ""
 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
