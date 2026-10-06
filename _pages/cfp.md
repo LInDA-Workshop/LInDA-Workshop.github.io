@@ -2,6 +2,7 @@
 permalink: /cfp/
 title: "Call for Papers"
 banner: /images/eacl.png
+
 ---
 <style>
   html { scroll-behavior: smooth; }
@@ -19,7 +20,6 @@ banner: /images/eacl.png
   .cfp-toc a { text-decoration: none; }
   .cfp-toc a:hover { text-decoration: underline; }
 </style>
-
 
 <p><b>March 13 or 14, 2027 (date to be confirmed) – Hybrid format</b><br>
 Co-located with <a href="https://2027.eacl.org/"> EACL 2027</a> in Athens, Greece<br>
