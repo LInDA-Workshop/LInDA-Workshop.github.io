@@ -5,10 +5,10 @@ main:
     url: /
   - title: "Program"
     url: /program/
-  - title: "Invited Speakers"
-    url: /speakers/
-  - title: "Panel"
-    url: /panel/
+  # - title: "Invited Speakers"
+  #   url: /speakers/
+  # - title: "Panel"
+    # url: /panel/
   - title: "Important Dates"
     url: /dates/
   - title: "Call for Papers"
@@ -27,10 +27,10 @@ workshop:
         url: /
       - title: "Program"
         url: /program/
-      - title: "Invited Speakers"
-        url: /speakers/
-      - title: "Panel"
-        url: /panel/
+      # - title: "Invited Speakers"
+      #   url: /speakers/
+      # - title: "Panel"
+      #   url: /panel/
       - title: "Important Dates"
         url: /dates/
       - title: "Call for Papers"
