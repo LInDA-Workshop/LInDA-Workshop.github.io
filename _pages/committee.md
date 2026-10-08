@@ -8,7 +8,7 @@ title: "Committee"
 <ul>
   <li><a href="https://mariondimarco.github.io/">Marion Di Marco</a>, Technical University of Munich, Germany</li>
   <li><a href="https://niyatibafna.github.io/">Niyati Bafna</a>, Johns Hopkins University, USA</li>
-  <li><a href="https://www.alphaxiv.org/@aleksei-dorkin">Aleksei Dorkin</a>, University of Tartu, Estonia</li>
+  <li><a href="#">Aleksei Dorkin</a>, University of Tartu, Estonia</li>
   <li><a href="https://shuokabe.github.io/">Shu Okabe</a>, CentraleSupélec, Université Paris-Saclay, France</li>
   <li><a href="https://www.dlsi.ua.es/~japerez/">Juan Antonio Pérez-Ortiz</a>, Universitat d'Alacant, Spain</li>
   <li><a href="https://www.dlsi.ua.es/~fsanchez/resources.html">Felipe Sánchez-Martínez</a>, Universitat d'Alacant, Spain</li>
