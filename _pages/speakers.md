@@ -25,6 +25,7 @@ title: "Invited Speakers"
 }
 </style>
 
+{% comment %}
 <div class="speaker">
   <img src="/images/Jaap-Jumelet.jpg" alt="Jaap Jumelet">
   <div>
@@ -44,3 +45,4 @@ title: "Invited Speakers"
     <p>Bio: Duygu Ataman works on multilingual representation learning and morphology. Her research aims to make language technologies available for low-resource languages.</p>
   </div>
 </div>
+{% endcomment %}
