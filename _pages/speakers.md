@@ -25,6 +25,8 @@ title: "Invited Speakers"
 }
 </style>
 
+<p>Invited Speakers:TBA</p>
+
 {% comment %}
 <div class="speaker">
   <img src="/images/Jaap-Jumelet.jpg" alt="Jaap Jumelet">
