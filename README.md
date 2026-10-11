@@ -32,7 +32,7 @@ Built with the [academicpages](https://github.com/academicpages/academicpages.gi
 
 1. Edit the file on GitHub (pencil icon) or locally.
 2. Commit and push to the `main` branch.
-3. Wait 2 to 5 minutes. The site updates by itself.
+3. Wait 2 to 5 minutes. The site updates itself.
 4. Check the build under the **Actions** tab if nothing changes.
 
 ## Preview locally (optional)
