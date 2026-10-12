@@ -66,7 +66,7 @@ banner: /images/linda_eacl_2027_banner_v2.jpg
 
 <p><b>March 13 or 14, 2027 (date to be confirmed) – Hybrid format</b><br>
 Co-located with <a href="https://2027.eacl.org/"> EACL 2027</a> in Athens, Greece<br>
-Venue: Megaron Athens International Conference Center (MAICC), Room: TBA</p>
+Venue: Megaron Athens International Conference Centre (MAICC), Room: TBA</p>
 
 <p>LInDA invites papers on the use of linguistic information to improve NLP applications. Each submission must address two points: (1) a linguistic resource or annotation (not necessarily created by the contributors), and (2) its impact on one or more NLP tasks. Papers that cover only one of these points are out of scope.</p>
 
