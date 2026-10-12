@@ -3,20 +3,14 @@ permalink: /
 # title: ""
 
 ---
-{% comment %}
-<p><b>March 13 or 14, 2027 (date to be confirmed) – Hybrid format</b><br>
-Co-located with EACL 2027 in Athens, Greece<br>
-Venue: Megaron Athens International Conference Centre (MAICC), Room: TBA</p>
-{% endcomment %}
-
-## News {#news}
+# News {#news}
 
 - LInDA will be co-located with EACL 2027.
 - [Date TBA] The LInDA 2027 website is online.
 - [Date TBA, October 13, 2026, suggested by ACL] The first Call for Papers is out.
 - [Date TBA, November 13, 2026, suggested by ACL] The second Call for Papers is out.
 
-# LInDA: Workshop on Linguistic Information for Downstream Applications
+# LInDA: Workshop on Linguistic Information for Downstream Applications 
 
 <p><i>LInDA studies how linguistic information can improve downstream NLP applications.</i></p>
 
