@@ -1,7 +1,7 @@
 ---
 permalink: /news/
 title: "News"
-
+published: false
 ---
 <ul><li>LInDA will be co-located with EACL 2027. </li>
 <li>[Date TBA] The LInDA 2027 website is online.</li></ul>
