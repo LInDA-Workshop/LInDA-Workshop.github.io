@@ -109,6 +109,8 @@ Venue: Megaron Athens International Conference Center (MAICC), Room: TBA</p>
 
 <p>We encourage submissions from researchers and communities that are underrepresented in NLP, and from authors with diverse backgrounds. We consider both topic fit and diversity in the review and selection process.</p>
 
+<p>For questions, please write to the organizers: <a href="mailto:linda2027@dlsi.ua.es">linda2027@dlsi.ua.es</a></p>
+
 <script>
 document.addEventListener('DOMContentLoaded', function () {
   var content = document.querySelector('.page__content') || document;
