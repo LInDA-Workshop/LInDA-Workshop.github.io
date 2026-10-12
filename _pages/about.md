@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "LInDA: Workshop on Linguistic Information for Downstream Applications"
+# title: ""
 
 ---
 {% comment %}
@@ -15,6 +15,8 @@ Venue: Megaron Athens International Conference Centre (MAICC), Room: TBA</p>
 - [Date TBA] The LInDA 2027 website is online.
 - [Date TBA, October 13, 2026, suggested by ACL] The first Call for Papers is out.
 - [Date TBA, November 13, 2026, suggested by ACL] The second Call for Papers is out.
+
+# LInDA: Workshop on Linguistic Information for Downstream Applications
 
 <p><i>LInDA studies how linguistic information can improve downstream NLP applications.</i></p>
 
