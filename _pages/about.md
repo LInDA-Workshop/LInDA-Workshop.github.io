@@ -4,7 +4,7 @@ permalink: /
 
 ---
 
-# News 
+## News {#news}
 
 - LInDA will be co-located with EACL 2027.
 - [Date TBA] The LInDA 2027 website is online.
