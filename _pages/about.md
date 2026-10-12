@@ -3,7 +3,8 @@ permalink: /
 # title: ""
 
 ---
-# News {#news}
+
+# News 
 
 - LInDA will be co-located with EACL 2027.
 - [Date TBA] The LInDA 2027 website is online.
@@ -31,6 +32,4 @@ permalink: /
 {% endcomment %}
 
 
-<p>We welcome researchers with a background in linguistics, in computer science, or in both. This is the first edition of LInDA.</p>
-
-<p>It will be co-located with <a href="https://2027.eacl.org/"> EACL 2027</a> in Athens, Greece.</p>
+<p>We welcome researchers with a background in linguistics, in computer science, or in both. This is the first edition of LInDA. It will be co-located with <a href="https://2027.eacl.org/"> EACL 2027</a> in Athens, Greece.</p>
