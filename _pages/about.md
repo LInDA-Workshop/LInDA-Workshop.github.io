@@ -7,10 +7,12 @@ title: "LInDA: Workshop on Linguistic Information for Downstream Applications"
 ## News
 
 - LInDA will be co-located with **EACL 2027**!
-- [Date TBA] The LInDA 2027 website is online.
-- [Date TBA, October 13, 2026, suggested by ACL] The first Call for Papers is out.
-- [Date TBA, November 13, 2026, suggested by ACL] The second Call for Papers is out.
+- The LInDA 2027 website is online.
+- October 13, 2026, suggested by ACL] The first Call for Papers is out.
 
+{% comment %}
+- [Date TBA, November 13, 2026, suggested by ACL] The second Call for Papers is out.
+{% endcomment %}
 ## About
 <p><i>LInDA studies how linguistic information can improve downstream NLP applications.</i></p>
 
