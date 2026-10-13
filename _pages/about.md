@@ -3,15 +3,16 @@ permalink: /
 # title: ""
 ---
 
+# LInDA: Workshop on Linguistic Information for Downstream Applications 
+
 ## News
 
-- LInDA will be co-located with EACL 2027.
+- LInDA will be co-located with **EACL 2027**!
 - [Date TBA] The LInDA 2027 website is online.
 - [Date TBA, October 13, 2026, suggested by ACL] The first Call for Papers is out.
 - [Date TBA, November 13, 2026, suggested by ACL] The second Call for Papers is out.
 
-# LInDA: Workshop on Linguistic Information for Downstream Applications 
-
+## About
 <p><i>LInDA studies how linguistic information can improve downstream NLP applications.</i></p>
 
 <p>Many languages remain underrepresented in large language models (LLMs), resulting in limited performance on downstream tasks. However, many languages have other resources: dictionaries, grammars, morphological analyses, and other forms of annotated texts. According to <a href="https://glottolog.org/langdoc/status"> Glottolog</a>,  about 63% of the world's languages have at least a grammar sketch.</p>
