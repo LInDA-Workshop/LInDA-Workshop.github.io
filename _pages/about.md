@@ -1,9 +1,8 @@
 ---
 permalink: /
-# title: ""
+title: "LInDA: Workshop on Linguistic Information for Downstream Applications"
 ---
 
-# LInDA: Workshop on Linguistic Information for Downstream Applications 
 
 ## News
 
