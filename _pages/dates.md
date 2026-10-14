@@ -23,7 +23,7 @@ title: "Important Dates"
       <td>Notification of acceptance</td><td>TBA, January 5, 2027, suggested by ACL</td>
     </tr>
     <tr>
-      <td>Camera-ready deadline</td><td>TBA, January 29, 2027, suggested by ACL</td>
+      <td>Camera-ready deadline</td><td>TBA, January 19, 2027, suggested by ACL</td>
     </tr>
     <tr>
       <td>Workshop</td><td>March 13 or 14, 2027 (TBC)</td>
