@@ -101,12 +101,16 @@ Venue: Megaron Athens International Conference Centre (MAICC), Room: TBA</p>
 <p>Submissions must follow the two-column ACL format. Please use the official <a href="https://github.com/acl-org/acl-style-files"> ACL LaTeX template</a> (also available on <a href="https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj"> Overleaf</a>). We do not provide a Word template. Submissions must be in PDF.</p>
 <p>All papers must include a Limitations section after the conclusion. This section does not count toward the page limit. An Ethical Considerations section is optional and also does not count toward the limit.</p>
 
-<h3>Submission links</h3>
-<p>We use OpenReview for all submissions.</p>
+<h3>Submission details</h3>
+<h4>Submission link</h4>
+<p>We use OpenReview for all submissions. Link TBA.</p>
+
+<h4>Submission dates</h4>
+More details are in the `dates` tab.
 <ul>
-<li>Direct submissions (archival): TBA</li>
-<li>ARR commitment (archival, pre-reviewed papers): TBA</li>
-<li>Non-archival submissions: TBA</li>
+<li>Direct submissions (archival): December 15, 2026</li>
+<li>ARR commitment (archival, pre-reviewed papers): December 22, 2026</li>
+<li>Non-archival submissions: December 15, 2026</li>
 </ul>
 
 

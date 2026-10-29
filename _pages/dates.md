@@ -20,10 +20,10 @@ title: "Important Dates"
       <td>Direct submission deadline (non-archival papers)</td><td>December 15, 2026, suggested by ACL</td>
     </tr>
     <tr>
-      <td>Notification of acceptance</td><td>TBA, January 5, 2027, suggested by ACL</td>
+      <td>Notification of acceptance</td><td>January 5, 2027, suggested by ACL</td>
     </tr>
     <tr>
-      <td>Camera-ready deadline</td><td>TBA, January 19, 2027, suggested by ACL</td>
+      <td>Camera-ready deadline</td><td>January 19, 2027, suggested by ACL</td>
     </tr>
     <tr>
       <td>Workshop</td><td>March 13 or 14, 2027 (TBC)</td>
