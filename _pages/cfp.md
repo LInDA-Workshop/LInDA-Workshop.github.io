@@ -133,7 +133,8 @@ More details are in the `dates` tab.
 
 <p>We encourage submissions from researchers and communities that are underrepresented in NLP, and from authors with diverse backgrounds. We consider both topic fit and diversity in the review and selection process.</p>
 
-<p>For questions, please write to the organizers: <a href="mailto:linda2027@dlsi.ua.es">linda2027@dlsi.ua.es</a></p>
+<h3>Questions?</h3>
+<p>For questions, please write to our <a href="https://groups.google.com/g/linda-2027">Google group</a>. For private questions, you can write to the organizers at <a href="mailto:linda2027@dlsi.ua.es">linda2027@dlsi.ua.es</a>.</p>
 
 <script>
 document.addEventListener('DOMContentLoaded', function () {
