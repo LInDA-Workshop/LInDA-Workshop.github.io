@@ -106,7 +106,7 @@ Venue: Megaron Athens International Conference Centre (MAICC), Room: TBA</p>
 <p>We use OpenReview for all submissions. Link TBA.</p>
 
 <h4>Submission dates</h4>
-More details are in the `dates` tab.
+More details are in the  [`Important Dates`](/dates/) tab.
 <ul>
 <li>Direct submissions (archival): December 15, 2026</li>
 <li>ARR commitment (archival, pre-reviewed papers): December 22, 2026</li>
