@@ -94,7 +94,7 @@ Venue: Megaron Athens International Conference Centre (MAICC), Room: TBA</p>
 <ul><li>Long papers: up to 8 pages of content. They should describe original, completed, and unpublished work. Include evaluation and analysis where possible.</li>
 <li>Short papers: up to 4 pages of content. They should present a focused contribution, such as a small experiment, a negative result, a new resource, or an application.</li></ul>
 <p>References and appendices do not count toward the page limit. Reviewers are not required to read the appendices. Accepted papers may add one page in the camera-ready version to address the reviews.</p>
-<p><b>Non-archival papers</b> <i>(to be confirmed)</i>. Accepted papers will be presented at the workshop but will not appear in the proceedings. This track is open to extended abstracts (up to 2 pages) on ongoing work, and to work already published elsewhere.</p>
+<p><b>Non-archival papers</b>. Accepted papers will be presented at the workshop but will not appear in the proceedings. This track is open to extended abstracts (up to 2 pages) on ongoing work, and to work already published elsewhere.</p>
 
 
 <h3>Submission format</h3>
@@ -134,7 +134,7 @@ More details are in the `dates` tab.
 <p>We encourage submissions from researchers and communities that are underrepresented in NLP, and from authors with diverse backgrounds. We consider both topic fit and diversity in the review and selection process.</p>
 
 <h3>Questions?</h3>
-<p>For questions, please write to our <a href="https://groups.google.com/g/linda-2027">Google group</a>. For private questions, you can write to the organizers at <a href="mailto:linda2027@dlsi.ua.es">linda2027@dlsi.ua.es</a>.</p>
+<p>For questions, please see <a href="{{ site.baseurl }}/faq/">FAQ</a> or write to our <a href="https://groups.google.com/g/linda-2027">Google group</a>. For private questions, you can write to the organizers at <a href="mailto:linda2027@dlsi.ua.es">linda2027@dlsi.ua.es</a>.</p>
 
 <script>
 document.addEventListener('DOMContentLoaded', function () {

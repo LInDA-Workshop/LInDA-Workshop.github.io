@@ -20,6 +20,8 @@ main:
     url: /committee/
   - title: "Contact"
     url: /contact/
+  - title: "FAQ"
+    url: /faq/
 
 # workshop:
 #   - title: "LInDA 2027"
