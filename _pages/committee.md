@@ -20,10 +20,12 @@ title: "Committee"
 
 <h3>Program Committee</h3>
 <ul><li><a href="https://everlynasiko.github.io/">Everlyn Asiko Chimoto</a>, Lelapa AI & Riara University</li>
+<li><a href="https://sethjsa.github.io/">Seth Aycock</a>, University of Amsterdam</li>
 <li><a href="https://niyatibafna.github.io/">Niyati Bafna </a>, Johns Hopkins University</li>
 <li><a href="https://verenablaschke.github.io/">Verena Blaschke</a>, LMU Munich & University of Groningen</li>
 <li><a href="https://buzaabah.github.io/">Happy Buzaaba</a>, Princeton University</li>
 <li><a href="https://mukundc2k.github.io/">Mukund Choudhary</a>, MBZUAI</li>
+<li><a href="https://coltekin.net/cagri//cagri/">Çağrı Çöltekin</a>, University of Tübingen</li>
 <li><a href="https://researchportal.helsinki.fi/en/persons/ona-de-gibert-bonet/">Ona de Gibert</a>, University of Helsinki</li>
 <li><a href="https://people.cs.kuleuven.be/~miryam.delhoneux/">Miryam de Lhoneux</a>, KU Leuven</li>
 <li><a href="https://leukas.github.io/about">Lukas Edman</a>, Technical University of Munich</li>
@@ -35,9 +37,13 @@ title: "Committee"
 <li><a href="https://ufal.mff.cuni.cz/jindrich-libovicky">Jindřich Libovický</a>, Charles University</li>
 <li><a href="https://modyco.fr/membre/aleksandra-mileti%C4%87/">Aleksandra Miletić</a>, CNRS & Paris Nanterre University</li>
 <li><a href="https://seyyaw.github.io/">Seid Muhie Yimam</a>, University of Hamburg</li>
+<li><a href="https://peirh.github.io/">Renhao Pei </a>, University of Turku</li>
 <li><a href="https://scholar.google.com/citations?user=1AslBsAAAAAJ&hl=en">Rita Ramos</a>, Apple MLR</li>
 <li><a href="https://n8rrobinson.wixsite.com/mysite">Nathaniel Robinson</a>, Johns Hopkins University</li>
+<li><a href="https://sanchez.ai/index.html">Eduardo Sánchez</a>, Meta FAIR & University College London</li>
 <li><a href="https://vitaka.github.io/">Víctor M. Sánchez-Cartagena</a>, Universitat d'Alacant</li>
+<li><a href="https://scholar.google.com/citations?user=oE5SFXgAAAAJ&hl=de">Julius Steuer</a>, Heidelberg Institute for Theoretical Studies</li>
 <li><a href="https://lindiatjuatja.github.io/">Lindia Tjuatja</a>, Carnegie Mellon University</li>
 <li><a href="https://www.linkedin.com/in/changbing-yang-6a058b129">Changbing Yang</a>, University of British Columbia</li>
+<li><a href="https://shirawein.github.io/">Shira Wein</a>, University of South Florida</li>
 <li><a href="https://luciusssss.github.io/">Chen Zhang</a>, NII LLMC</li>
